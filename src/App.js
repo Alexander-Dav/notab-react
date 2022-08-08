@@ -1,7 +1,6 @@
 import './App.css';
 import Code from './components/Code';
 import Download from './components/Download';
-import Feedbackcopy from './components/Feedbackcopy';
 import Feedback from './components/Feedback';
 import Footer from './components/Footer';
 import Generate from './components/Generate';
@@ -28,7 +27,7 @@ function App() {
         <Generate />
         <Order />
         <NotabBackground />
-        <Feedbackcopy />
+        <Feedback />
         <Download />
       </main>
       <Footer />

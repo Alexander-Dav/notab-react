@@ -1,6 +1,6 @@
 import React from 'react';
-import appStore from './../images/app-store-ram.webp';
-import googlePlay from './../images/google-play-ram.webp';
+import appStore from './../images/app-store.webp';
+import googlePlay from './../images/google-play.webp';
 
 const Download = () => {
   return (
